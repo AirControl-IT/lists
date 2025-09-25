@@ -2,24 +2,24 @@
 mail.ru
 
 # OfficeLive
-0.0.0.0 excel.officeapps.live.com
+excel.officeapps.live.com
 
 # vk
-0.0.0.0 id.vk.com
+id.vk.com
 
 # sgnl.pro
 sgnl.pro
-0.0.0.0 docs.sgnl.pro
-0.0.0.0 storage.yandexcloud.net
+docs.sgnl.pro
+storage.yandexcloud.net
 
 # yandex
 yandex.ru
 yastatic.net
-0.0.0.0 webattach.mail.yandex.net
+webattach.mail.yandex.net
 
 #WhatsApp
 whatsapp.com
-0.0.0.0 web.whatsapp.com
-0.0.0.0 static.whatsapp.net
-0.0.0.0 mmx-ds.cdn.whatsapp.net
-0.0.0.0 (^|\.)cdn.whatsapp.net
+web.whatsapp.com
+static.whatsapp.net
+mmx-ds.cdn.whatsapp.net
+(^|\.)cdn.whatsapp.net
