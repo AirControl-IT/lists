@@ -1,3 +1,11 @@
+# PiHole в Листах так не может, только во вкладку Domain - RegEx
+# (^|\.)(net|com)
+
+# ACAD
+genuine-software2.autodesk.com
+ase-cdn-stg.autodesk.com
+ase.autodesk.com
+
 # mail
 rebus.e.mail.ru
 filin.mail.ru
@@ -30,6 +38,3 @@ cu.dzen.ru
 
 # yandex
 dr.yandex.net
-
-# PiHole в Листах так не может, только во вкладку Domain - RegEx
-# (^|\.)(net|com)
