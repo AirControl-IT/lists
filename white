@@ -11,16 +11,22 @@ login.vk.com
 # sgnl.pro
 sgnl.pro
 docs.sgnl.pro
+
+# yandex & sgnl.pro
 storage.yandexcloud.net
 
 # yandex
 yandex.ru
-yastatic.net
 webattach.mail.yandex.net
+
+#Yandex JavaScript-библиотеки
+yastatic.net
 
 #WhatsApp
 whatsapp.com
 web.whatsapp.com
 static.whatsapp.net
 mmx-ds.cdn.whatsapp.net
-(^|\.)cdn.whatsapp.net
+
+# PiHole в Листах так не может, только во вкладку Domain - RegEx
+# (^|\.)(net|com)
