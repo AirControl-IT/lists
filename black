@@ -30,3 +30,6 @@ cu.dzen.ru
 
 # yandex
 dr.yandex.net
+
+# PiHole в Листах так не может, только во вкладку Domain - RegEx
+# (^|\.)(net|com)
