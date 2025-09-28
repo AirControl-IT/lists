@@ -1,3 +1,6 @@
+# PiHole в Листах так не может, только во вкладку Domain - RegEx
+# (^|\.)(net|com)
+
 # mail
 mail.ru
 
@@ -28,5 +31,7 @@ web.whatsapp.com
 static.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 
-# PiHole в Листах так не может, только во вкладку Domain - RegEx
-# (^|\.)(net|com)
+# Разное
+gazeta.ru
+2ip.ru
+exmo.me
