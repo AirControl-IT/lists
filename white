@@ -1,6 +1,11 @@
 # PiHole в Листах так не может, только во вкладку Domain - RegEx
 # (^|\.)(net|com)
 
+# cynteka
+cynteka.ru
+ips-sz.cynteka.ru
+setlcity.cynteka.ru
+
 # mail
 mail.ru
 e.mail.ru
